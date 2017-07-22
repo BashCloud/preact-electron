@@ -1,4 +1,4 @@
-# Preact-Photon Demo
+# Preact Electron Boilerplate 
 
 Demonstration of a desktop app built with [Electron] using the light-weight [Preact] library, [npm] for package management, and [Babel] and [Webpack2] for compilation.
 
