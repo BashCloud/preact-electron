@@ -1,5 +1,4 @@
 import { h, render } from 'preact';
-import './style';
 
 let root;
 function init() {
