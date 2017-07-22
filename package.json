@@ -8,18 +8,17 @@
     "watch": "webpack --progress --colors --watch",
     "build": "webpack --production"
   },
-  "repository": "https://github.com/alexkrolick/preact-photon-electron-quick-start",
+  "repository": "https://github.com/BashCloud/preact-electron",
   "keywords": [
     "Electron",
+    "preact",
     "quick",
     "start",
     "tutorial",
-    "demo",
-    "preact",
-    "photon"
+    "demo"
   ],
-  "author": "Alex Krolick",
-  "license": "CC0-1.0",
+  "author": "Pulkit Aggarwal",
+  "license": "MIT",
   "devDependencies": {
     "electron": "^1.4.1",
     "babel-core": "^6.22.1",
@@ -29,10 +28,8 @@
     "webpack": "^2.2.1"
   },
   "dependencies": {
-
     "preact": "^7.2.0",
     "preact-compat": "^3.13.1",
     "preact-router": "^2.5.5"
-
   }
 }
