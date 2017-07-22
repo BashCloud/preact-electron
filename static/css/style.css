@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+a{
+    text-decoration: none;
+}
+#body{
+    height: 600px;
+    width: 800px;
+    background-color: #575757;
+}
+.home {
+	padding: 56px 20px;
+	min-height: 100%;
+	width: 100%;
+}
+.profile {
+	padding: 56px 20px;
+	min-height: 100%;
+	width: 100%;
+	background: #EEE;
+}

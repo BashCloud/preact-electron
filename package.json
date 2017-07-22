@@ -1,0 +1,42 @@
+{
+  "name": "preact-photon-electron-quick-start",
+  "version": "1.0.0",
+  "description": "A minimal Electron application with Preact and Photon configured",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "watch": "webpack --progress --colors --watch",
+    "build": "webpack --production"
+  },
+  "repository": "https://github.com/alexkrolick/preact-photon-electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo",
+    "preact",
+    "photon"
+  ],
+  "author": "Alex Krolick",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "css-loader": "^0.28.4",
+    "electron": "^1.4.1",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.5",
+    "style-loader": "^0.18.2"
+  },
+  "dependencies": {
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "babel-preset-react": "^6.22.0",
+    "babel-preset-stage-1": "^6.22.0",
+    "photon": "connors/photon",
+    "preact": "^7.2.0",
+    "preact-compat": "^3.13.1",
+    "preact-photon": "^1.3.0",
+    "preact-router": "^2.5.5",
+    "webpack": "^2.2.1"
+  }
+}
