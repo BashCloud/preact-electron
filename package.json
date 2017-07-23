@@ -1,7 +1,7 @@
 {
-  "name": "preact-photon-electron-quick-start",
+  "name": "preact-electron-quick-start",
   "version": "1.0.0",
-  "description": "A minimal Electron application with Preact and Photon configured",
+  "description": "A minimal ELECTRON application with PREACT and WEBPACK pre-configured",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
